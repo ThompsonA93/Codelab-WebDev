@@ -10,6 +10,7 @@
     - [Docker-CLI](#docker-cli)
     - [DockerFile](#dockerfile)
     - [Docker Compose](#docker-compose)
+    - [Docker Swarm](#docker-swarm)
 
 
 ## Local Deployment
@@ -48,4 +49,5 @@
 
 ### Docker Compose
 
+### Docker Swarm
 
